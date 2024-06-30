@@ -37,7 +37,7 @@ public class Intersection {
         System.out.println();
 
         int[] nums3 = {4, 9, 5};
-        int[] nums4 = {9, 4, 9, 8, 4};
+        int[] nums4 = {9, 4, 9, 8, 4, 6};
         int[] result2 = intersect(nums3, nums4);
         for (int num : result2) {
             System.out.print(num + " ");
